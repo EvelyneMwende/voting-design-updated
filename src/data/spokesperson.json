@@ -1,0 +1,20 @@
+[
+  {
+    "_id": 1,
+    "name": "Tim John",
+    "image": "thom.jpeg",
+    "votes":0
+  },
+  {
+    "_id": 2,
+    "name": "Festus Otieno",
+    "image": "oliver.jpeg",
+    "votes":0
+  },
+  {
+    "_id": 3,
+    "name": "Lilian Ndung'u",
+    "image": "jane.jpeg",
+    "votes":0
+  }
+]

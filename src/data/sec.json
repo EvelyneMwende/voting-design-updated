@@ -1,0 +1,20 @@
+[
+  {
+    "_id": 1,
+    "name": "Brian Waweru",
+    "image": "thom.jpeg",
+    "votes":0
+  },
+  {
+    "_id": 2,
+    "name": "Oscar Kambona",
+    "image": "oliver.jpeg",
+    "votes":0
+  },
+  {
+    "_id": 3,
+    "name": "Dedan Kimathi",
+    "image": "jane.jpeg",
+    "votes":0
+  }
+]
